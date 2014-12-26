@@ -1,0 +1,6 @@
+moduleName=core
+moduleVersion=0.1
+extensionClasses=com.github.mperry.ListExtension
+staticExtensionClasses=
+
+
