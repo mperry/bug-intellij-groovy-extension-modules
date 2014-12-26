@@ -9,7 +9,7 @@ import groovy.transform.TypeChecked
 class Example {
 
 
-    public List<Integer> test1() {
+    static List<Integer> callExtension() {
         [1, 2, 3].map { Integer i -> i + 1 }
     }
 
