@@ -1,6 +1,7 @@
 
 allprojects {
 
+	defaultTasks "build"
 }
 
 subprojects {
